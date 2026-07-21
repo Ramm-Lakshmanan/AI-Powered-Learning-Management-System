@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Environment
+.env
+frontend/.env
+
+# Archives
+*.zip
+
+# Cache
+.pdfbox.cache
+
+# Uploads
+uploads/
+LMS/uploads/
