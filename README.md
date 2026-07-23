@@ -305,6 +305,3 @@ POST /ai/analyze/{materialId}
 
 Computer Science Engineering Student
 
-```
-
----
